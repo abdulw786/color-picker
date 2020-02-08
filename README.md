@@ -2,9 +2,9 @@
 
 * For this activity, you'll be creating a "correct color" game.
 
-* The game should generate a random color string (ie, "green" or "blue") that is displayed in a random color. We'll cause this the current color.
+* The game generate a random color string (ie, "green" or "blue") that is displayed in a random color. We'll cause this the current color.
 
-* It should also generate a list of random color strings that are also displayed in random colors. We'll call this the color list.
+* It also generate a list of random color strings that are also displayed in random colors. We'll call this the color list.
 
 * The user must click the *name* of the color in the color list that matches the *color* of the current color.
 
