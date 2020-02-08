@@ -41,7 +41,26 @@
     <script>
     $(document).ready(function(){
 
+        var challangedColor;
+        var selecteColor;
+        var colors = [
+            "red",
+             "blue",    
+            "yellow",
+            "green",
+            "purple",
+            "gray"
+        ];
+        
+        for (let i = 0; i<colors.length; i++) {
+        var challangedColor = Math.floor(Math.random()* colors.length);
+        var selecteColor  = Math.floor(Math.random()* colors.length);
+        console.log(challangedColor, selecteColor );
 
+        
+            
+        }
+        
 
 
         
